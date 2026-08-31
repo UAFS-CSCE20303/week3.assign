@@ -1,7 +1,7 @@
-## Week 3 Assignment: One: Create a Multi-Page Static Website for a Small College
+## Week 3 Assignment: Create a Multi-Page Static Website for a Small College
 
 ### Overview
-In this project, the student will design and develop a **responsive static website** for a fictional small college. The website should look professional, follow web design best practices, and function properly across devices (mobile, tablet, and desktop). The site will be built using **HTML and CSS only**—no other frameworks (such as Bootstrap, Tailwind, or JavaScript) are allowed.  
+In this assignment, you will design and develop a **responsive static website** for a fictional small college. The website should look professional, follow web design best practices, and function and display properly across the different device screen sizes (mobile, tablet, and desktop). You can resize the browser to check the responsiveness. The site will be built using **HTML and CSS only**—no other frameworks (such as Bootstrap, Tailwind, or JavaScript) are allowed.  The images and style sheets should be stored in their respective directories.  The project MUST have external CSS style sheets.  The default structure is already in the repo.
 
 Students may use **generative AI tools** to help brainstorm creative content for the fictitious college (such as descriptions of programs, faculty bios, or campus life details), but **AI tools cannot be used to generate code**. All HTML and CSS must be written by the student.  
 
