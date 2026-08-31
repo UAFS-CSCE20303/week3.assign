@@ -15,7 +15,7 @@ Students may use **generative AI tools** to help brainstorm creative content for
   - Faculty/Staff Directory  
 
 - The entire site must:  
-  - Be fully functional as a static site (HTML + CSS).  
+  - Be fully functional as a static site (HTML + CSS).   
   - Be **responsive** and correctly display on phone, tablet, and desktop.  
   - Use **plain CSS** (no preprocessors, CSS frameworks, or JavaScript libraries).  
   - Follow **web design best practices** (see below).  
@@ -44,8 +44,3 @@ The five most important design best practices you must apply are:
 5. **Clear Purpose and User-Centered Design**  
    - Each page should communicate its purpose clearly.  
    - Information should be easy to find, with logical page structure and intuitive links.  
-
-### Submission
-- Submit a zipped folder containing the complete website code (HTML and CSS files, images, and assets).  
-- Ensure all links work and the pages are viewable offline by opening `index.html`.  
-
